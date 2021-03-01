@@ -5,7 +5,7 @@ if(document.getElementsByClassName('typed-business').length > 0) {
         typeSpeed: 200,
         loop: true,
         strings: [
-            'Agency', 'Software', 'Technology', 'Studio', 'Webapps',
+            'Credit', 'Payments', 'Neobank', 'Fintech', 'Analytics',
         ],
     });
 }
@@ -17,7 +17,7 @@ if(document.getElementsByClassName('typed-finance').length > 0) {
         typeSpeed: 200,
         loop: true,
         strings: [
-            'Agency', 'Business', 'Startups', 'Studio',
+           'Credit', 'Payments', 'Neobank', 'Fintech', 'Analytics',
         ],
     });
 }
