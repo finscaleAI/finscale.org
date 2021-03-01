@@ -2,10 +2,10 @@
 Finscale.org Product and Developer Landing Pages
 This site is about Finscale - an open source financial technology platform.
 
-It is built on a licensed web template, fully updated with latest bootstrap v5.0.0.
+The website is built on a template, organised and licensed for use to Muellners Foundation Copenhagen, Denmark CVR: 41008407. 
 
-Credits & Official Documentation:
-We've used the following resources as listed. These are some awesome creation and we are thankful to the community.
+Credits & Official Documentation:<br>
+We've used the following open source resources as listed. These are some awesome creation and we are thankful to the community.
 
 Bootstrap 5.0.0<br>
 Feather Icons<br>
