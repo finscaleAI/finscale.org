@@ -1,5 +1,5 @@
-# finscale-website
-Finscale.org Product and Developer Landing Pages
+# finscale-website<br>
+Finscale.org Product and Developer Landing Pages<br>
 This site is about Finscale - an open source financial technology platform.
 
 The website is built on a template, organised and licensed for use to Muellners Foundation Copenhagen, Denmark CVR: 41008407. 
